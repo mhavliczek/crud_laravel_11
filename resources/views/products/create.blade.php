@@ -11,7 +11,7 @@
                     Agregar Nuevo producto
                 </div>
                 <div class="float-end">
-                    <a href="{{ route('products.index') }}" class="btn btn-primary btn-sm">&larr; Back</a>
+                    <a href="{{ route('products.index') }}" class="btn btn-primary btn-sm">&larr; Atras</a>
                 </div>
             </div>
             <div class="card-body">

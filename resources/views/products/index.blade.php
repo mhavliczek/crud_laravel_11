@@ -43,7 +43,7 @@
 
                                     <a href="{{ route('products.edit', $product->id) }}" class="btn btn-primary btn-sm"><i class="bi bi-pencil-square"></i> Editar</a>   
 
-                                    <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Do you want to delete this product?');"><i class="bi bi-trash"></i> Eliminar</button>
+                                    <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Seguro que desea eleiminar este registro?');"><i class="bi bi-trash"></i> Eliminar</button>
                                 </form>
                             </td>
                         </tr>
