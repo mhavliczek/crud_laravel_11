@@ -15,12 +15,11 @@
             @yield('content')
             <div class="row justify-content-center text-center mt-3">
                 <div class="col-md-12">
-                    <p>Back to Tutorial: 
+                    <p>Ir al a la madre del tutorial
                         <a href="https://www.allphptricks.com/simple-laravel-11-crud-application-tutorial/"><strong>Tutorial Link</strong></a>
                     </p>
                     <p>
-                        <h5>For More Web Development Tutorials Visit: <a href="https://www.allphptricks.com/"><strong>AllPHPTricks.com</strong></a>
-                        </p></h5>
+                        <h5>Disfrutar Crud</h5>
                 </div>
             </div>
     </div>
