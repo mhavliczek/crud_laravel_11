@@ -8,7 +8,7 @@
         <div class="card">
             <div class="card-header">
                 <div class="float-start">
-                    Add New Product
+                    Agregar Nuevo producto
                 </div>
                 <div class="float-end">
                     <a href="{{ route('products.index') }}" class="btn btn-primary btn-sm">&larr; Back</a>
